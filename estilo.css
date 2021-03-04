@@ -1,0 +1,18 @@
+.div_largura {
+    width: 100%;
+}
+
+.div_cor_1 {
+    background-color: pink;
+    height: 50px;
+}
+
+.div_cor_2 {
+    background-color: purple;
+    height: 400px;
+}
+
+.div_cor_4 {
+    background-color: darkcyan;
+    height: 50px;
+}
